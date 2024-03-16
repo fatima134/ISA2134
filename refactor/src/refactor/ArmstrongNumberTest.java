@@ -27,7 +27,7 @@ public class ArmstrongNumberTest {
 	}
 
 	@Test
-	 public void testIsArmstrong() {
+	 public void testIs1Armstrong() {
         assertTrue(ArmstrongNumber.isArmstrong(0));
         assertTrue(ArmstrongNumber.isArmstrong(1));
         assertTrue(ArmstrongNumber.isArmstrong(153));
@@ -44,5 +44,7 @@ public class ArmstrongNumberTest {
 
 		
 	}
+
+
 
 
