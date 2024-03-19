@@ -3,7 +3,7 @@ package refactor;
 public class MainVehicle {
 
 		    public static void main(String[] args) {
-		        // Creating an object of the Car class
+		        // Creating  object of the Car class
 		    	Car car = new Car (50, "Toyota");
 
 		        // Calling the drive method
@@ -18,6 +18,5 @@ public class MainVehicle {
 		        System.out.println("Car's make: " + carMake);
 		    }
 		}
-
 
 
